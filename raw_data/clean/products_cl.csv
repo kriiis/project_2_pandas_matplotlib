@@ -319,7 +319,7 @@ TWS0036,Twelve South BookBook Case iPad mini / black Retina,Twelve South BookBoo
 PIE0007,Internal Battery for iPhone 4,Internal Battery for iPhone 4,14.95,
 PIE0009,Internal Battery for iPhone 4S,Internal Battery for iPhone 4S,14.99,
 PIE0010,Internal Battery for iPhone 3GS,Internal Battery for iPhone 3GS,14.95,
-PIE0011,Internal Battery for iPhone 3G,Internal Battery for iPhone 3G,,9.90
+PIE0011,Internal Battery for iPhone 3G,Internal Battery for iPhone 3G,,9.9
 KEN0064,"Safestand Kensington security lock iMac 27 ""","Safestand Kensington security lock iMac 27 """,99.99,
 OWC0060,Mac OWC Memory 2GB 667MHz DDR2 SO-DIMM,Mac OWC Memory 2GB 667MHz DDR2 SO-DIMM,23.99,
 OWC0054-2,Mac OWC memory 4GB (2x2GB) 667MHz DDR2 SO-DIMM,Mac OWC memory 4GB (2x2GB) 667MHz DDR2 SO-DIMM,47.98,
@@ -365,7 +365,7 @@ SEV0021,SSD installation service MacBook Pro Retina,SSD installation service Mac
 SEV0022,MacBook Air SSD installation service,MacBook Air SSD installation service,49.99,
 SEV0023,HDD or SSD installation service Mac Pro,HDD or SSD installation service Mac Pro,49.99,
 SEV0024,Service installation RAM + HDD + SSD Mac mini,Service installation RAM + HDD + SSD Mac mini,,59.99
-SEV0025,Service installation RAM + HDD + SSD iMac,Service installation RAM + HDD + SSD iMac,,59.99
+SEV0025,Service installation RAM + HDD + SSD iMac,Service installation RAM + HDD + SSD iMac,,474.96
 MOP0027,Mophie Juice Pack Helium (1500mAh) battery cover iPhone SE / 5s / 5 gray,Mophie Juice Pack Helium (1500mAh) battery cover iPhone SE / 5s / 5 gray,79.99,
 SEV0027,Budget Request repair Apple MacBook Air,Budget Request repair Apple MacBook Air,,19.99
 TWS0046,Twelve South BookBook Case iPhone 5 / 5S black,Twelve South BookBook Case iPhone 5 / 5S black,49.99,
@@ -375,7 +375,7 @@ PAC0362,"NewerTech pack 2 cups 225 ""for iMac","NewerTech pack 2 cups 225 ""for 
 SNN0019,Sonnet RackMac support rack mini Mac mini,Sonnet RackMac support rack mini Mac mini,205.64,
 LOG0084,Logitech Ultrathin Keyboard Cover Keyboard Cover iPad Mini / Retina Black,Logitech Ultrathin Keyboard Cover Keyboard Cover iPad Mini / Retina Black,89.99,
 KEN0096,Kensington Evap Water Rescue Pouch bag wet salvation,Kensington Evap Water Rescue Pouch bag wet salvation,19.99,
-SEV0028,Budget Request repair Apple MacBook Pro,Budget Request repair Apple MacBook Pro,,19.99
+SEV0028,Budget Request repair Apple MacBook Pro,Budget Request repair Apple MacBook Pro,,108.9
 SEV0029,Apple MacBook repair Budget Request,Apple MacBook repair Budget Request,,19.99
 SEV0030,Apple iMac repair Budget Request,Apple iMac repair Budget Request,,19.99
 SEV0031,Budget Request repair Apple Mac mini,Budget Request repair Apple Mac mini,,19.99
@@ -504,7 +504,7 @@ DLK0050,D-Link DCS-5020L wireless surveillance camera Day / Night Network,D-Link
 DLK0051,D-Link DWR-921 Router 4G LTE / HSPA,D-Link DWR-921 Router 4G LTE / HSPA,149.99,
 DLK0052,D-Link DAP-1320 Wireless N300 Range Extender Repeater Wi-Fi,D-Link DAP-1320 Wireless N300 Range Extender Repeater Wi-Fi,39.99,
 DLK0054,D-Link DKVM-4U Switch 4-Port USB KVM,D-Link DKVM-4U Switch 4-Port USB KVM,82.98,
-CRU0015-2,Crucial memory Mac 16GB (2x8GB) SO-DIMM DDR3 1600MHZ,Crucial memory Mac 16GB (2x8GB) SO-DIMM DDR3 1600MHZ,,95.94
+CRU0015-2,Crucial memory Mac 16GB (2x8GB) SO-DIMM DDR3 1600MHZ,Crucial memory Mac 16GB (2x8GB) SO-DIMM DDR3 1600MHZ,,177.99
 SYN0078,RX1214 Synology NAS Mac and PC expansion,RX1214 Synology NAS Mac and PC expansion,1173.99,
 JAB0030,Jabra Sport Bluetooth Headphones Plus Comfort Eargels radio microphone,Jabra Sport Bluetooth Headphones Plus Comfort Eargels radio microphone,99.99,
 KIN0081,Mac Memory Kingston 4GB DDR3 1600MHz SO-DIMM,Mac Memory Kingston 4GB DDR3 1600MHz SO-DIMM,25.99,
@@ -726,7 +726,7 @@ SNN0029,Sonnet Allegro FW800 / 400 and PC Card PCIe Mac,Sonnet Allegro FW800 / 4
 APP0718,Apple Thunderbolt Cable 2m Black,Apple Thunderbolt Cable 2m Black,45.0,
 GRT0315,Griffin Survivor Case All-Terrain iPad mini 1/2/3 Black / Blue,Griffin Survivor Case All-Terrain iPad mini 1/2/3 Black / Blue,49.99,
 MOS0116,"Moshi Codex MacBook Pro Retina case 13 ""Black","Moshi Codex MacBook Pro Retina case 13 ""Black",69.99,
-DLK0059,D-Link DSL-2750B ADSL Router N300,D-Link DSL-2750B ADSL Router N300,,52.90
+DLK0059,D-Link DSL-2750B ADSL Router N300,D-Link DSL-2750B ADSL Router N300,,52.9
 DLK0060,D-Link DGS-1024D Gigabit Switch 24 Ports,D-Link DGS-1024D Gigabit Switch 24 Ports,144.99,
 DLK0061,D-Link DGS 1016D Gigabit Switch 16 Ports,D-Link DGS 1016D Gigabit Switch 16 Ports,92.99,
 PRO0020,R8 Pegasus2 Promise RAID 24TB Hard Disk Thunderbolt 2 Macc,R8 Pegasus2 Promise RAID 24TB Hard Disk Thunderbolt 2 Macc,3499.0,
@@ -1189,13 +1189,13 @@ APP1928,Apple Mac mini Core i7 3GHz | 16GB RAM | 1TB Fusion Drive (MGEN2YP / A),
 APP0864,Apple iPad Air 2 Wi-Fi 16GB Silver,Apple iPad Air 2 Wi-Fi 16GB Silver,429.0,
 APP0865,Apple iPad Air 2 Wi-Fi 16GB Dorado,Apple iPad Air 2 Wi-Fi 16GB Dorado,429.0,
 APP0866,Apple iPad Air 2 Wi-Fi 64GB Space Gray,Apple iPad Air 2 Wi-Fi 64GB Space Gray,529.0,
-APP0869,Apple iPad 2 Wi-Fi Air 128GB Space Gray,Apple iPad 2 Wi-Fi Air 128GB Space Gray,,539.00
+APP0869,Apple iPad 2 Wi-Fi Air 128GB Space Gray,Apple iPad 2 Wi-Fi Air 128GB Space Gray,,539.0
 APP0867,Apple iPad Air 2 Wi-Fi 64GB Silver,Apple iPad Air 2 Wi-Fi 64GB Silver,529.0,
-APP0870,Apple iPad 2 Wi-Fi Air 128GB Silver,Apple iPad 2 Wi-Fi Air 128GB Silver,,539.00
+APP0870,Apple iPad 2 Wi-Fi Air 128GB Silver,Apple iPad 2 Wi-Fi Air 128GB Silver,,539.0
 APP0868,Apple iPad Air 2 64GB Wi-Fi Dorado,Apple iPad Air 2 64GB Wi-Fi Dorado,529.0,
-APP0871,Apple iPad 2 Wi-Fi Air 128GB Dorado,Apple iPad 2 Wi-Fi Air 128GB Dorado,,539.00
-APP0880,Apple iPad Air 2 Wi-Fi + Cellular 128GB Dorado,Apple iPad Air 2 Wi-Fi + Cellular 128GB Dorado,,659.00
-APP0879,Apple iPad Air 2 Wi-Fi + Cellular 128GB Silver,Apple iPad Air 2 Wi-Fi + Cellular 128GB Silver,,659.00
+APP0871,Apple iPad 2 Wi-Fi Air 128GB Dorado,Apple iPad 2 Wi-Fi Air 128GB Dorado,,539.0
+APP0880,Apple iPad Air 2 Wi-Fi + Cellular 128GB Dorado,Apple iPad Air 2 Wi-Fi + Cellular 128GB Dorado,,659.0
+APP0879,Apple iPad Air 2 Wi-Fi + Cellular 128GB Silver,Apple iPad Air 2 Wi-Fi + Cellular 128GB Silver,,659.0
 APP0878,Apple iPad Air 2 Wi-Fi + Cellular 128GB Space Gray,Apple iPad Air 2 Wi-Fi + Cellular 128GB Space Gray,659.0,
 APP0877,Apple iPad Air 2 Wi-Fi + Cellular 64GB Dorado,Apple iPad Air 2 Wi-Fi + Cellular 64GB Dorado,649.0,
 APP0876,Apple iPad Air 2 Wi-Fi + Cellular 64GB Silver,Apple iPad Air 2 Wi-Fi + Cellular 64GB Silver,649.0,
@@ -1248,7 +1248,7 @@ BEA0025,Beats by Dr. Dre speaker Red Pill Case,Beats by Dr. Dre speaker Red Pill
 BEA0026,Beats by Dr. Dre Pill Speaker Case Blue,Beats by Dr. Dre Pill Speaker Case Blue,,
 BEA0020,Beats by Dr. Dre bike mount speaker Pill,Beats by Dr. Dre bike mount speaker Pill,49.95,
 TRC0009,Motion monitor activity tractive,Motion monitor activity tractive,79.99,
-PAC0549,Kingston V300 SSD expansion kit 120GB + Datadoubler for MacBook and MacBook Pro from 2008 to 2012,Kingston V300 SSD expansion kit 120GB + Datadoubler for MacBook and MacBook Pro from 2008 to 2012,,95.86
+PAC0549,Kingston V300 SSD expansion kit 120GB + Datadoubler for MacBook and MacBook Pro from 2008 to 2012,Kingston V300 SSD expansion kit 120GB + Datadoubler for MacBook and MacBook Pro from 2008 to 2012,,132.58
 PAC0550,Samsung SSD 850 expansion kit PRO 256GB + Datadoubler for MacBook and MacBook Pro from 2008 to 2012,Samsung SSD 850 expansion kit PRO 256GB + Datadoubler for MacBook and MacBook Pro from 2008 to 2012,247.98,
 PAC0564,Kit PRO 256GB Samsung SSD expansion + 16GB 1333Mhz RAM for Mac mini 2011,Kit PRO 256GB Samsung SSD expansion + 16GB 1333Mhz RAM for Mac mini 2011,358.96,
 PAC0553,Samsung SSD expansion kit 1TB + 85 PRO Datadoubler for MacBook and MacBook Pro from 2008 to 2012,Samsung SSD expansion kit 1TB + 85 PRO Datadoubler for MacBook and MacBook Pro from 2008 to 2012,587.98,
@@ -1305,7 +1305,7 @@ PAC1828,Synology DS1515 + 8GB RAM + 40TB (5x8TB) WD Red,Synology DS1515 + 8GB RA
 MOS0152,Moshi iGlaze Armor Hard Shell iPhone 6 / 6S Plus Gold,Moshi iGlaze Armor Hard Shell iPhone 6 / 6S Plus Gold,44.99,
 CRU0031,Crucial Mac Memory 4GB DDR3 1600MHZ SO-DIMM,Crucial Mac Memory 4GB DDR3 1600MHZ SO-DIMM,45.99,
 MOS0146,Moshi iGlaze XT Case iPhone 6 / 6S Plus,Moshi iGlaze XT Case iPhone 6 / 6S Plus,35.0,
-CRU0025-2,Crucial memory Mac 8GB (2x4GB) SO-DIMM DDR3 1600MHZ,Crucial memory Mac 8GB (2x4GB) SO-DIMM DDR3 1600MHZ,,96.99
+CRU0025-2,Crucial memory Mac 8GB (2x4GB) SO-DIMM DDR3 1600MHZ,Crucial memory Mac 8GB (2x4GB) SO-DIMM DDR3 1600MHZ,,136.87
 MOS0150,Moshi iGlaze Armor Case for iPhone 6 / 6S Plus Gray,Moshi iGlaze Armor Case for iPhone 6 / 6S Plus Gray,50.0,
 MOS0151,Moshi iGlaze Armor Case for iPhone 6 / 6S Plus Gray / White,Moshi iGlaze Armor Case for iPhone 6 / 6S Plus Gray / White,50.0,
 GRT0354,Griffin Survivor Case Core iPhone 6 Plus Pink / Transparent,Griffin Survivor Case Core iPhone 6 Plus Pink / Transparent,29.99,
@@ -1632,7 +1632,7 @@ PAC0692,1600Mhz RAM + 16GB expansion kit Crucial MX200 250GB MacBook Pro 2012,16
 PAC0693,Samsung SSD 850 expansion kit EVO 250GB + 16GB 1600Mhz RAM + Datadoubler for MacBook Pro 2012,Samsung SSD 850 expansion kit EVO 250GB + 16GB 1600Mhz RAM + Datadoubler for MacBook Pro 2012,,327.58
 PAC0707, Samsung EVO SSD expansion kit 250GB + 8GB RAM 1066Mhz + Datadoubler for iMac and Mac mini 2009 2009, Samsung EVO SSD expansion kit 250GB + 8GB RAM 1066Mhz + Datadoubler for iMac and Mac mini 2009 2009,323.96,
 PAC0717,Samsung SSD 850 expansion kit EVO 1TB + 8GB RAM 1066Mhz + Datadoubler for iMac and Mac mini 2009 2009,Samsung SSD 850 expansion kit EVO 1TB + 8GB RAM 1066Mhz + Datadoubler for iMac and Mac mini 2009 2009,605.96,
-PAC0784,Samsung SSD 850 expansion kit EVO 500GB + 16GB 1600Mhz RAM + Datadoubler for MacBook Pro 2012,Samsung SSD 850 expansion kit EVO 500GB + 16GB 1600Mhz RAM + Datadoubler for MacBook Pro 2012,,6.59
+PAC0784,Samsung SSD 850 expansion kit EVO 500GB + 16GB 1600Mhz RAM + Datadoubler for MacBook Pro 2012,Samsung SSD 850 expansion kit EVO 500GB + 16GB 1600Mhz RAM + Datadoubler for MacBook Pro 2012,,384.58
 PAC0785,Samsung SSD 850 expansion kit PRO 512GB + 16GB 1600Mhz RAM + Datadoubler for Macbook Pro 2012,Samsung SSD 850 expansion kit PRO 512GB + 16GB 1600Mhz RAM + Datadoubler for Macbook Pro 2012,,457.58
 PAC0787,16GB 1600Mhz RAM expansion kit + Crucial MX200 1TB MacBook,16GB 1600Mhz RAM expansion kit + Crucial MX200 1TB MacBook,576.96,
 PAC0757,"expansion kit 250GB + SSD Crucial MX200 installation kit iMac 27 ""Mid 2010","expansion kit 250GB + SSD Crucial MX200 installation kit iMac 27 ""Mid 2010",159.98,
@@ -1719,7 +1719,7 @@ WAC0148-A,Open - Wacom Intuos Creative Stylus 2,Open - Wacom Intuos Creative Sty
 CEL0020,Celly Ambo Luxury Leather Case + iPhone 6 Case Black,Celly Ambo Luxury Leather Case + iPhone 6 Case Black,,
 ACM0033,"Acme Skinny Sleeve Case MacBook Air / Pro 13 ""Black","Acme Skinny Sleeve Case MacBook Air / Pro 13 ""Black",34.95,
 BEL0175,Belkin WeMO Led Lighting LED Bulbs Sept. 2 + WeMO Link,Belkin WeMO Led Lighting LED Bulbs Sept. 2 + WeMO Link,79.99,
-CEL0007,Celly Wallet Case with removable cover Black iPhone 6,Celly Wallet Case with removable cover Black iPhone 6,,12.90
+CEL0007,Celly Wallet Case with removable cover Black iPhone 6,Celly Wallet Case with removable cover Black iPhone 6,,12.9
 CEL0012,Celly Silicone Hard Shell iPhone 6 Blue,Celly Silicone Hard Shell iPhone 6 Blue,,4.99
 CEL0014,Celly Silicone Hard Shell iPhone 6 Amarillo,Celly Silicone Hard Shell iPhone 6 Amarillo,,
 BEL0180,Belkin NetCam WeMO WiFi HD night vision,Belkin NetCam WeMO WiFi HD night vision,149.99,
@@ -1931,7 +1931,7 @@ IFX0013,iFixit 26 Bit Driver Kit portable repair 26 parts,iFixit 26 Bit Driver K
 IFX0016,iFixit Heavy Duty Suction Cups Pack 2 suction cups for iMac,iFixit Heavy Duty Suction Cups Pack 2 suction cups for iMac,20.99,
 IFX0017,iFixit SIM Card Eject Tool for iPhone and iPad,iFixit SIM Card Eject Tool for iPhone and iPad,2.99,
 IFX0019,Full iFixit repair Repair Kit iPhone,Full iFixit repair Repair Kit iPhone,19.99,
-IFX0020,iFixit P5 Pentalobe Screwdriver,iFixit P5 Pentalobe Screwdriver,,7.99
+IFX0020,iFixit P5 Pentalobe Screwdriver,iFixit P5 Pentalobe Screwdriver,,10.99
 IFX0023,Battery Kit complete iFixit iPhone 4 battery change,Battery Kit complete iFixit iPhone 4 battery change,19.95,
 IFX0025,iFixit Display Kit complete change screen iPhone 4S Black,iFixit Display Kit complete change screen iPhone 4S Black,49.95,
 IFX0009,iFixit Pro Tech Kit Screwdriver Set 15 screwdrivers,iFixit Pro Tech Kit Screwdriver Set 15 screwdrivers,54.99,
@@ -1963,7 +1963,7 @@ IFX0015,iFixit disassembly tool iSclack iPhone 5 5S 5C 6 and 6 Plus,iFixit disas
 TWS0088,TwelveSouth ParcSlope Low-profile bracket MacBook Pro and iPad,TwelveSouth ParcSlope Low-profile bracket MacBook Pro and iPad,59.99,
 TWS0089,Twelve South BookArc Mac Pro,Twelve South BookArc Mac Pro,69.99,
 AKG0012,AKG Headphones In-Ear Y16 with micro Black,AKG Headphones In-Ear Y16 with micro Black,29.99,
-REP0243,Microphone Repair iPhone 6,Microphone Repair iPhone 6,,69.90
+REP0243,Microphone Repair iPhone 6,Microphone Repair iPhone 6,,69.9
 DEV0025,Devolo dLAN 650+ PLC,Devolo dLAN 650+ PLC,54.99,
 DEV0020,Devolo dLAN 500 Wi-Fi Adapter Kit PLC,Devolo dLAN 500 Wi-Fi Adapter Kit PLC,149.99,
 DEV0011,Devolo Wifi Repeater 24 GHz,Devolo Wifi Repeater 24 GHz,,39.99
@@ -1978,7 +1978,7 @@ REP0241,Load Connector Repair iPhone 6,Load Connector Repair iPhone 6,59.99,
 REP0245,Front Camera Repair iPhone 6,Front Camera Repair iPhone 6,69.99,
 REP0246,Rear Camera Repair iPhone 6,Rear Camera Repair iPhone 6,69.99,
 REP0247,Speaker lower repair iPhone 6,Speaker lower repair iPhone 6,59.99,
-REP0250,Repair Headset calls iPhone 6,Repair Headset calls iPhone 6,,69.90
+REP0250,Repair Headset calls iPhone 6,Repair Headset calls iPhone 6,,69.9
 REP0252,Wi-Fi antenna repair iPhone 6,Wi-Fi antenna repair iPhone 6,59.99,
 REP0251,GSM antenna repair iPhone 6,GSM antenna repair iPhone 6,59.99,
 BEZ0181,Be.ez LA robe MacBook Air / Pro 13 Black / Orange,Be.ez LA robe MacBook Air / Pro 13 Black / Orange,34.99,
@@ -3261,7 +3261,7 @@ PAC1218,Synology DS716 + Pack | Seagate 8TB NAS,Synology DS716 + Pack | Seagate 
 PAC1219,Synology DS716 + Pack | WD 4TB Network,Synology DS716 + Pack | WD 4TB Network,689.9,
 PAC1220,Synology DS716 + Pack | WD 6TB Network,Synology DS716 + Pack | WD 6TB Network,729.9,
 PAC1221,Synology DS716 + Pack | WD 8TB Network,Synology DS716 + Pack | WD 8TB Network,869.9,
-SAN0102,SanDisk Ultra SDHC Class 10 | 16 GB,SanDisk Ultra SDHC Class 10 | 16 GB,,8.99
+SAN0102,SanDisk Ultra SDHC Class 10 | 16 GB,SanDisk Ultra SDHC Class 10 | 16 GB,,11.0
 SNA0058,Sena UltraSlim Case Heritage iPhone 6 / 6S / 7 brown,Sena UltraSlim Case Heritage iPhone 6 / 6S / 7 brown,39.95,
 GRT0393,Griffin WatchStand charging base Apple Watch / iPhone Black,Griffin WatchStand charging base Apple Watch / iPhone Black,59.99,
 WDT0313,WD My Book for Mac USB 3.0 4TB,WD My Book for Mac USB 3.0 4TB,199.0,
@@ -3471,7 +3471,7 @@ PAC1641,QNAP TS-253A | 4GB RAM | 20TB (2x10TB) Seagate Iron Wolf,QNAP TS-253A | 
 PAC1645,QNAP TS-253A | 8GB RAM | 20TB (2x10TB) Seagate Iron Wolf,QNAP TS-253A | 8GB RAM | 20TB (2x10TB) Seagate Iron Wolf,1343.27,
 PAC1646,QNAP TS-253A | 8GB RAM | 16TB (2x8TB) WD Red,QNAP TS-253A | 8GB RAM | 16TB (2x8TB) WD Red,1217.99,
 PAC1647,QNAP TS-253A | 16GB RAM,QNAP TS-253A | 16GB RAM,,509.99
-PAC1653,QNAP TS-253A | 16GB | 20TB (2x10TB) Seagate Iron Wolf,QNAP TS-253A | 16GB | 20TB (2x10TB) Seagate Iron Wolf,,1.399.99
+PAC1653,QNAP TS-253A | 16GB | 20TB (2x10TB) Seagate Iron Wolf,QNAP TS-253A | 16GB | 20TB (2x10TB) Seagate Iron Wolf,,1399.99
 PAC1654,QNAP TS-253A | 16GB | 4TB (2x2TB) WD Red,QNAP TS-253A | 16GB | 4TB (2x2TB) WD Red,,
 PAC1655,QNAP TS-253A | 16GB RAM | 6TB (2x3TB) WD Red,QNAP TS-253A | 16GB RAM | 6TB (2x3TB) WD Red,,
 PAC1656,QNAP TS-253A | 16GB RAM | 8TB (2x4TB) WD Red,QNAP TS-253A | 16GB RAM | 8TB (2x4TB) WD Red,,
@@ -3513,7 +3513,7 @@ PAC1673,QNAP TS-453A | 16GB | 40TB (4x10TB) Seagate Iron Wolf,QNAP TS-453A | 16G
 PAC1674,QNAP TS-453A | 16GB | 8TB (4x2TB) WD Red,QNAP TS-453A | 16GB | 8TB (4x2TB) WD Red,,
 PAC1675,QNAP TS-453A | 16GB | 12TB (4x3TB) WD Red,QNAP TS-453A | 16GB | 12TB (4x3TB) WD Red,,
 PAC1676,QNAP TS-453A | 16GB | 16TB (4x4TB) WD Red,QNAP TS-453A | 16GB | 16TB (4x4TB) WD Red,,
-PAC1677,QNAP TS-453A | 16GB | 24TB (4x6TB) WD Red,QNAP TS-453A | 16GB | 24TB (4x6TB) WD Red,,1.680.99
+PAC1677,QNAP TS-453A | 16GB | 24TB (4x6TB) WD Red,QNAP TS-453A | 16GB | 24TB (4x6TB) WD Red,,1680.99
 PAC1678,QNAP TS-453A | 16GB | 32TB (4x8TB) WD Red,QNAP TS-453A | 16GB | 32TB (4x8TB) WD Red,,
 PAC1662,QNAP TS-453A | 4GB RAM | 32TB (4x8TB) WD Red,QNAP TS-453A | 4GB RAM | 32TB (4x8TB) WD Red,1965.99,
 PAC1659,QNAP TS-453A | 4GB | 24TB (4x6TB) Seagate Iron Wolf,QNAP TS-453A | 4GB | 24TB (4x6TB) Seagate Iron Wolf,1649.95,
@@ -3522,7 +3522,7 @@ PAC1663,QNAP TS-453A | 8GB RAM | Seagate 24TB Iron Wolf,QNAP TS-453A | 8GB RAM |
 PAC1664,QNAP TS-453A | 8GB | Seagate 32TB Iron Wolf,QNAP TS-453A | 8GB | Seagate 32TB Iron Wolf,2140.55,
 PAC1668,QNAP TS-453A | 16GB | Seagate 8TB Iron Wolf,QNAP TS-453A | 16GB | Seagate 8TB Iron Wolf,,
 PAC1669,QNAP TS-453A | 16GB RAM | Seagate 12TB Iron Wolf,QNAP TS-453A | 16GB RAM | Seagate 12TB Iron Wolf,,
-PAC1670,QNAP TS-453A | 16GB RAM | Seagate 16TB Iron Wolf,QNAP TS-453A | 16GB RAM | Seagate 16TB Iron Wolf,,1.293.99
+PAC1670,QNAP TS-453A | 16GB RAM | Seagate 16TB Iron Wolf,QNAP TS-453A | 16GB RAM | Seagate 16TB Iron Wolf,,1293.99
 PAC1671,QNAP TS-453A | 16GB RAM | Seagate 24TB Iron Wolf,QNAP TS-453A | 16GB RAM | Seagate 24TB Iron Wolf,,
 PAC1672,QNAP TS-453A | 16GB RAM | Seagate 32TB Iron Wolf,QNAP TS-453A | 16GB RAM | Seagate 32TB Iron Wolf,,
 QNA0157,QNAP TS-853A | 4GB RAM Mac and PC Server NAS,QNAP TS-853A | 4GB RAM Mac and PC Server NAS,966.79,
@@ -3542,7 +3542,7 @@ PHI0069,Philips Hue White 9.5W E27 A60 Single + Dimmer Switch,Philips Hue White 
 OWC0132,OWC Aura 2TB SSD for Apple Mac Pro 2013,OWC Aura 2TB SSD for Apple Mac Pro 2013,1399.99,
 OWC0133,Aura OWC 1TB SSD for Apple Mac Pro 2013 + Tools + Case,Aura OWC 1TB SSD for Apple Mac Pro 2013 + Tools + Case,1209.99,
 OWC0134,OWC Aura 2TB SSD for Apple Mac Pro 2013 + Tools + Case,OWC Aura 2TB SSD for Apple Mac Pro 2013 + Tools + Case,1955.99,
-DLK0103,D-Link mydlink Home DCH-S220 Sirena Wi-Fi,D-Link mydlink Home DCH-S220 Sirena Wi-Fi,,54.00
+DLK0103,D-Link mydlink Home DCH-S220 Sirena Wi-Fi,D-Link mydlink Home DCH-S220 Sirena Wi-Fi,,54.0
 KIN0147,Kingston Ultimate SDXC Memory Card UHS Class 1 | 128GB,Kingston Ultimate SDXC Memory Card UHS Class 1 | 128GB,64.99,
 DLK0107,D-Link DHP-P509AV PowerLine AV 500 Passthrough Starter Kit HD,D-Link DHP-P509AV PowerLine AV 500 Passthrough Starter Kit HD,42.99,
 DLK0108,D-Link DHP-P601AV PowerLine Gigabit AV2 1000 HD Passthrough Kit,D-Link DHP-P601AV PowerLine Gigabit AV2 1000 HD Passthrough Kit,61.99,
@@ -3571,7 +3571,7 @@ JAB0047,Jabra Move Wireless Headset Black,Jabra Move Wireless Headset Black,99.9
 TRN0010,"Trunk Case Sleeve MacBook 13 ""Anthracite","Trunk Case Sleeve MacBook 13 ""Anthracite",39.95,
 TRA0006-A,"Open - Transcend JetDrive Lite 330 128GB Macbook Pro Retina 13 ""","Open - Transcend JetDrive Lite 330 128GB Macbook Pro Retina 13 """,90.0,
 UAG0026,"Urban Armor Gear iPad Case 129 Pro ""Black / Black","Urban Armor Gear iPad Case 129 Pro ""Black / Black",79.95,
-KIN0150,Kingston DataTraveler SE9 32Gb USB 3.0 G2,Kingston DataTraveler SE9 32Gb USB 3.0 G2,,7.99
+KIN0150,Kingston DataTraveler SE9 32Gb USB 3.0 G2,Kingston DataTraveler SE9 32Gb USB 3.0 G2,,17.28
 IKM0049,IK Multimedia iRig Keys 37 PRO USB MIDI controller for Mac iPhone iPad iPod,IK Multimedia iRig Keys 37 PRO USB MIDI controller for Mac iPhone iPad iPod,121.99,
 SAN0141,SanDisk Ultra microSDXC 64GB Memory Card + SD Adapter,SanDisk Ultra microSDXC 64GB Memory Card + SD Adapter,23.99,
 FCM0045,Mac FCM memory 16GB DDR3 1867MHz SO-DIMM,Mac FCM memory 16GB DDR3 1867MHz SO-DIMM,244.99,
@@ -3655,13 +3655,13 @@ MIC0035,Office Home and Business 2016 Software for Mac,Office Home and Business 
 LAC0175,LaCie Rugged USB 3.0 16GB pendrive Key,LaCie Rugged USB 3.0 16GB pendrive Key,29.99,
 SNS0027,Sonos Play 5 Speaker White,Sonos Play 5 Speaker White,579.0,
 APP1221,Apple Pencil,Apple Pencil,109.0,
-DLK0128,D-Link DES-1005P PoE Ethernet Switch,D-Link DES-1005P PoE Ethernet Switch,,46.90
+DLK0128,D-Link DES-1005P PoE Ethernet Switch,D-Link DES-1005P PoE Ethernet Switch,,46.9
 PAC1254,"Crucial SSD upgrade kit Kit tools MX200 iMac 1TB + 215 ""Mid 2011","Crucial SSD upgrade kit Kit tools MX200 iMac 1TB + 215 ""Mid 2011",433.98,
 APP1470,Apple Dock Base magnetic charging for Apple Watch,Apple Dock Base magnetic charging for Apple Watch,89.0,
 IKM0050,IK Multimedia iRig Keys 37 USB driver 37 mini keys for Mac iPad iPhone iPod,IK Multimedia iRig Keys 37 USB driver 37 mini keys for Mac iPad iPhone iPod,97.59,
 ELG0028-A,Open - Elgato Avea Smart Bulb,Open - Elgato Avea Smart Bulb,39.99,
 MOS0177,Moshi iGlaze Case Luxe iPhone 6 / 6S Orange,Moshi iGlaze Case Luxe iPhone 6 / 6S Orange,55.0,
-DLK0132,D-Link DCH-100KT Smart Home Monitoring Kit HD Starter Kit,D-Link DCH-100KT Smart Home Monitoring Kit HD Starter Kit,,142.90
+DLK0132,D-Link DCH-100KT Smart Home Monitoring Kit HD Starter Kit,D-Link DCH-100KT Smart Home Monitoring Kit HD Starter Kit,,142.9
 DLK0118,D-Link DWA-182 USB Adapter Wi-Fi AC1200 Dual-Band,D-Link DWA-182 USB Adapter Wi-Fi AC1200 Dual-Band,59.99,
 DLK0122,D-Link GO-DSL-AC750 AC Router Dual-Band ADSL2 +,D-Link GO-DSL-AC750 AC Router Dual-Band ADSL2 +,63.9,
 ZAG0017-A,(Open) Messenger Zagg Folio Keyboard Folio iPad Air / Air 2 Black,(Open) Messenger Zagg Folio Keyboard Folio iPad Air / Air 2 Black,59.99,
@@ -4016,7 +4016,7 @@ PAC1739,QNAP TS-128 Server l Nas 8TB (1x8TB) WD Red,QNAP TS-128 Server l Nas 8TB
 OWC0174-2,Mac OWC Memory 32GB (2x16GB) DIMM DDR3 1066MHZ,Mac OWC Memory 32GB (2x16GB) DIMM DDR3 1066MHZ,251.98,
 OWC0174-4,Mac OWC 64GB Memory (4x16GB) DIMM DDR3 1066MHZ,Mac OWC 64GB Memory (4x16GB) DIMM DDR3 1066MHZ,503.96,
 APP1465,Spanish Keyboard Keyboard Magic Apple Mac (OEM),Spanish Keyboard Keyboard Magic Apple Mac (OEM),119.0,
-APP1477,Apple iPhone 16GB Space Gray,Apple iPhone 16GB Space Gray,,489.00
+APP1477,Apple iPhone 16GB Space Gray,Apple iPhone 16GB Space Gray,,489.0
 APP1478,Apple iPhone 16GB Silver,Apple iPhone 16GB Silver,489.0,
 APP1479,Apple iPhone 16GB Gold,Apple iPhone 16GB Gold,489.0,
 APP1480,Apple iPhone 16GB Rose Gold,Apple iPhone 16GB Rose Gold,489.0,
@@ -4061,7 +4061,7 @@ APP1494,"Apple iPad Pro 9.7 ""256GB Wi-Fi Plata","Apple iPad Pro 9.7 ""256GB Wi-
 APP1495,"Apple iPad Pro 9.7 ""256GB Wi-Fi Oro","Apple iPad Pro 9.7 ""256GB Wi-Fi Oro",899.0,
 APP1496,"Apple iPad Pro 9.7 ""256GB Wi-Fi Oro Rosa","Apple iPad Pro 9.7 ""256GB Wi-Fi Oro Rosa",899.0,
 APP1497,"Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Space Gray","Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Space Gray",829.0,
-APP1498,"Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Silver","Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Silver",,829.00
+APP1498,"Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Silver","Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Silver",,829.0
 APP1499,"Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Gold","Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Gold",829.0,
 APP1500,"Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Rose Gold","Apple iPad Pro 9.7 ""Wi-Fi + Cellular 32GB Rose Gold",829.0,
 APP1501,"Apple iPad Pro 9.7 ""Wi-Fi + Cellular 128GB Space Gray","Apple iPad Pro 9.7 ""Wi-Fi + Cellular 128GB Space Gray",939.0,
@@ -4291,7 +4291,7 @@ BEL0252,"TrueClear Belkin iPad Screen Protector Pro 129 ""Transparent","TrueClea
 BEL0253,TrueClear Belkin Screen Protector iPhone 6 / 6S Transparent,TrueClear Belkin Screen Protector iPhone 6 / 6S Transparent,12.99,
 BEL0254,Belkin TrueClear 3 screen protectors iPhone 6s Plus / 6 Plus Transparent,Belkin TrueClear 3 screen protectors iPhone 6s Plus / 6 Plus Transparent,12.99,
 BEL0259,Belkin Leather Tassel Lighting to USB Gold,Belkin Leather Tassel Lighting to USB Gold,29.99,
-CEL0028,Celly Swing Arm button selfie with Bluetooth Black,Celly Swing Arm button selfie with Bluetooth Black,,9.99
+CEL0028,Celly Swing Arm button selfie with Bluetooth Black,Celly Swing Arm button selfie with Bluetooth Black,,10.99
 CEL0029,Celly extensible arm selfie with Bluetooth button Green,Celly extensible arm selfie with Bluetooth button Green,,6.99
 CEL0030,Celly Smart Drive Housing + clip car holder iPhone 5 / 5s / SE Black,Celly Smart Drive Housing + clip car holder iPhone 5 / 5s / SE Black,,8.99
 CEL0031,Celly Smart Drive Case + Car clip support iPhone 6 / 6S Black,Celly Smart Drive Case + Car clip support iPhone 6 / 6S Black,,
@@ -4318,7 +4318,7 @@ CEL0055, Celly IceCube Case iPhone 6 / 6S White, Celly IceCube Case iPhone 6 /
 CEL0056,IceCube Celly iPhone Case 6 / 6s Amarillo,IceCube Celly iPhone Case 6 / 6s Amarillo,,11.99
 CEL0057,Celly IceCube Case iPhone 6 / 6S Plus Black,Celly IceCube Case iPhone 6 / 6S Plus Black,,
 CEL0058,Celly IceCube Case iPhone 6 / 6S Plus Rosa,Celly IceCube Case iPhone 6 / 6S Plus Rosa,,9.99
-CEL0059,Celly IceCube Case iPhone 6 / 6S Plus White,Celly IceCube Case iPhone 6 / 6S Plus White,,9.99
+CEL0059,Celly IceCube Case iPhone 6 / 6S Plus White,Celly IceCube Case iPhone 6 / 6S Plus White,,11.99
 CEL0060,Celly IceCube Case iPhone 6 / 6S Plus Amarillo,Celly IceCube Case iPhone 6 / 6S Plus Amarillo,,
 WIL0007,"Wild and Merry Liberty Case Macbook 12 ""/ Air 13"" Black","Wild and Merry Liberty Case Macbook 12 ""/ Air 13"" Black",49.99,
 WIL0009,"Wild and Merry Liberty Case Macbook Air / Pro / Retina 13 ""Gray","Wild and Merry Liberty Case Macbook Air / Pro / Retina 13 ""Gray",49.99,
@@ -4668,7 +4668,7 @@ PUR0141,Pure UltraSlim Case 03 + Protector iPhone 6 / 6S Plus Rosa,Pure UltraSli
 PUR0143,Pure UltraSlim Case 03 + Protector iPhone 6 / 6s Blue,Pure UltraSlim Case 03 + Protector iPhone 6 / 6s Blue,,
 PUR0144,Pure UltraSlim Case 03 + Protector iPhone 6 / 6S Amarillo,Pure UltraSlim Case 03 + Protector iPhone 6 / 6S Amarillo,9.95,
 PUR0145,Pure UltraSlim Case 03 + Protector iPhone 6 / 6S Rosa,Pure UltraSlim Case 03 + Protector iPhone 6 / 6S Rosa,9.95,
-PUR0142,Pure UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,Pure UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,,8.47
+PUR0142,Pure UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,Pure UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,,12.99
 MUV0176,"Tempered Glass Protector Muvit iPad Air 033 / Air2 / Pro 97 ""","Tempered Glass Protector Muvit iPad Air 033 / Air2 / Pro 97 """,24.95,
 TRA0041,Transcend JetDrive GO 300 32GB Silver,Transcend JetDrive GO 300 32GB Silver,59.0,
 TRA0042,Transcend JetDrive GO 300 32GB Black,Transcend JetDrive GO 300 32GB Black,59.0,
@@ -4832,7 +4832,7 @@ OTT0145,"Otterbox Clearly Alpha Glass Screen Protector iPad Air 2 / iPad Pro 97 
 MDT0007-A,(Open) Mediterrans cover iPhone 6 / 6s Blue Menorca,(Open) Mediterrans cover iPhone 6 / 6s Blue Menorca,19.0,
 DLK0046-A,(Open) D-Link DAP-1320 Wireless N300 Range Extender Repeater Wi-Fi,(Open) D-Link DAP-1320 Wireless N300 Range Extender Repeater Wi-Fi,39.99,
 OWC0147-A,Open - OWC In-line Digital Thermal Sensor Kit iMac 2009 & 2010,Open - OWC In-line Digital Thermal Sensor Kit iMac 2009 & 2010,60.99,
-APP1546-A,Second hand - Apple Leather Case iPhone 6 / 6S Navy,Second hand - Apple Leather Case iPhone 6 / 6S Navy,,45.70
+APP1546-A,Second hand - Apple Leather Case iPhone 6 / 6S Navy,Second hand - Apple Leather Case iPhone 6 / 6S Navy,,45.7
 LIF0038-A,Open - LifeProof Fre Waterproof Case iPhone 6 Rosa,Open - LifeProof Fre Waterproof Case iPhone 6 Rosa,79.99,
 QNA0149-A,Open - QNAP TS-453A | 4GB RAM Mac and PC Server NAS,Open - QNAP TS-453A | 4GB RAM Mac and PC Server NAS,543.3,
 PAC1444,WD My Cloud EX2100 Pack | WD 4TB Network,WD My Cloud EX2100 Pack | WD 4TB Network,467.99,
@@ -4986,7 +4986,7 @@ PAC1481,Synology DS216 + II | WD 4TB Network for Mac and PC,Synology DS216 + II 
 PAC1482,Synology DS216 + II | WD 6TB Network for Mac and PC,Synology DS216 + II | WD 6TB Network for Mac and PC,,569.99
 PAC1483,Synology DS216 + II | WD 8TB Network for Mac and PC,Synology DS216 + II | WD 8TB Network for Mac and PC,,650.99
 PAC1484,Synology DS216 + II | 12TB WD Red for Mac and PC,Synology DS216 + II | 12TB WD Red for Mac and PC,,838.99
-PAC1485,Synology DS216 + II | 16TB WD Red for Mac and PC,Synology DS216 + II | 16TB WD Red for Mac and PC,,1.041.99
+PAC1485,Synology DS216 + II | 16TB WD Red for Mac and PC,Synology DS216 + II | 16TB WD Red for Mac and PC,,1041.99
 PAC2025,Synology DS216 + II | 2GB RAM,Synology DS216 + II | 2GB RAM,,386.18
 PAC2026,Synology DS216 + II | Seagate 4TB IronWolf for Mac and PC,Synology DS216 + II | Seagate 4TB IronWolf for Mac and PC,,
 PAC2027,Synology DS216 + II | Seagate 4TB IronWolf for Mac and PC,Synology DS216 + II | Seagate 4TB IronWolf for Mac and PC,,599.18
@@ -5228,7 +5228,7 @@ GTE0075,G-Technology G-DOCK ev Body only USB3.0,G-Technology G-DOCK ev Body only
 LEX0021-A,(Open) Lexar JumpDrive Lightning USB 3.0 M20i Pendrive 32GB,(Open) Lexar JumpDrive Lightning USB 3.0 M20i Pendrive 32GB,62.0,
 GTE0074,G-Technology G-DRIVE ev RED reader MINI-MAG,G-Technology G-DRIVE ev RED reader MINI-MAG,204.99,
 GTE0077,G-Technology G-DRIVE 2TB SATA EV220 3 USB 3.0,G-Technology G-DRIVE 2TB SATA EV220 3 USB 3.0,352.51,
-TPL0029,TP-LINK TL-WPA8630 3-port Gigabit Powerline Kit AV1200 Wi-Fi ac,TP-LINK TL-WPA8630 3-port Gigabit Powerline Kit AV1200 Wi-Fi ac,,97.52
+TPL0029,TP-LINK TL-WPA8630 3-port Gigabit Powerline Kit AV1200 Wi-Fi ac,TP-LINK TL-WPA8630 3-port Gigabit Powerline Kit AV1200 Wi-Fi ac,,147.99
 MAC0141,Macally Megapower 13000 130 mAh USB External Battery,Macally Megapower 13000 130 mAh USB External Battery,59.95,
 TPL0030,TP-LINK TL-WPA4226 Kit Powerline AV500 Ports 2 fast Wi-Fi n,TP-LINK TL-WPA4226 Kit Powerline AV500 Ports 2 fast Wi-Fi n,,67.99
 APP1042-A,Like new - Apple extension cable for power adapter,Like new - Apple extension cable for power adapter,25.0,
@@ -5328,7 +5328,7 @@ OWC0178-A,Open - OWC Aura Pro 6G SSD 1TB MacBook Air and MacBook Pro Retina,Open
 APP1576-A,"Open - Apple MacBook Air 13 ""i7 22 Ghz | 8GB RAM | 128GB Flash","Open - Apple MacBook Air 13 ""i7 22 Ghz | 8GB RAM | 128GB Flash",1219.0,
 PAC1523,Pack QNAP TS-451A NAS 8GB RAM l l 12TB (4x3TB) WD Red,Pack QNAP TS-451A NAS 8GB RAM l l 12TB (4x3TB) WD Red,,962.99
 PAC1524,Pack QNAP TS-451A NAS 8GB RAM l l 16TB (4x4TB) WD Red,Pack QNAP TS-451A NAS 8GB RAM l l 16TB (4x4TB) WD Red,,
-PAC1525,Pack QNAP TS-451A NAS 8GB RAM l l 24TB (4x6TB) WD Red,Pack QNAP TS-451A NAS 8GB RAM l l 24TB (4x6TB) WD Red,,1.458.99
+PAC1525,Pack QNAP TS-451A NAS 8GB RAM l l 24TB (4x6TB) WD Red,Pack QNAP TS-451A NAS 8GB RAM l l 24TB (4x6TB) WD Red,,1458.99
 PAC1526,Pack QNAP TS-451A NAS 8GB RAM l l 32TB (4x8TB) WD Red,Pack QNAP TS-451A NAS 8GB RAM l l 32TB (4x8TB) WD Red,,
 WDT0344,"2TB WD Red Pro 35 ""Sata 3 7200RPM","2TB WD Red Pro 35 ""Sata 3 7200RPM",169.99,
 WDT0342,"WD Red Pro 4TB 35 ""Sata 3 7200RPM","WD Red Pro 4TB 35 ""Sata 3 7200RPM",279.0,
@@ -5415,16 +5415,16 @@ UAG0045,Urban Armor Gear Case iPhone Pathfinder 7 Rust / Black,Urban Armor Gear 
 APP1750,Apple iPad Air 2 Wi-Fi 32GB Dorado,Apple iPad Air 2 Wi-Fi 32GB Dorado,429.0,
 UAG0046,Urban Armor Gear Case iPhone Pathfinder 7 White / Black,Urban Armor Gear Case iPhone Pathfinder 7 White / Black,29.95,
 APP1749,Apple iPad Air 2 Wi-Fi 32GB Silver,Apple iPad Air 2 Wi-Fi 32GB Silver,429.0,
-APP1748,Apple iPad Air 2 Wi-Fi 32GB Space Gray,Apple iPad Air 2 Wi-Fi 32GB Space Gray,,429.00
+APP1748,Apple iPad Air 2 Wi-Fi 32GB Space Gray,Apple iPad Air 2 Wi-Fi 32GB Space Gray,,429.0
 UAG0052,Urban Armor Gear Case iPhone 7 Plus Pathfinder Black / Black,Urban Armor Gear Case iPhone 7 Plus Pathfinder Black / Black,34.95,
 APP1754,Apple iPad Mini 4 Wi-Fi + Cellular 32GB Space Gray,Apple iPad Mini 4 Wi-Fi + Cellular 32GB Space Gray,549.0,
-APP1751,Apple iPad Air 2 Wi-Fi + Cellular 32GB Space Gray,Apple iPad Air 2 Wi-Fi + Cellular 32GB Space Gray,,549.00
+APP1751,Apple iPad Air 2 Wi-Fi + Cellular 32GB Space Gray,Apple iPad Air 2 Wi-Fi + Cellular 32GB Space Gray,,549.0
 APP1755,Apple iPad Mini 4 Wi-Fi + Cellular 32GB Silver,Apple iPad Mini 4 Wi-Fi + Cellular 32GB Silver,549.0,
 APP1756,Apple iPad Mini 4 Wi-Fi + Cellular 32GB Gold,Apple iPad Mini 4 Wi-Fi + Cellular 32GB Gold,549.0,
 APP1753,Apple iPad Air 2 Wi-Fi + Cellular 32GB Dorado,Apple iPad Air 2 Wi-Fi + Cellular 32GB Dorado,,
 APP1757,Apple iPad Mini 4 Wi-Fi 32GB Space Gray,Apple iPad Mini 4 Wi-Fi 32GB Space Gray,429.0,
 MUJ0016,Mujjo Leather Case Tan Leather iPhone 8/7/6,Mujjo Leather Case Tan Leather iPhone 8/7/6,39.9,
-APP1752,Apple iPad Air 2 Wi-Fi + Cellular 32GB Silver,Apple iPad Air 2 Wi-Fi + Cellular 32GB Silver,,549.00
+APP1752,Apple iPad Air 2 Wi-Fi + Cellular 32GB Silver,Apple iPad Air 2 Wi-Fi + Cellular 32GB Silver,,549.0
 APP1758,Apple iPad Mini 4 Wi-Fi 32GB Silver,Apple iPad Mini 4 Wi-Fi 32GB Silver,429.0,
 APP1759,Apple iPad Mini 4 Wi-Fi 32GB Gold,Apple iPad Mini 4 Wi-Fi 32GB Gold,429.0,
 MUJ0017,Mujjo Leather Black Leather Case iPhone 8/7/6,Mujjo Leather Black Leather Case iPhone 8/7/6,39.9,
@@ -5672,7 +5672,7 @@ APP1735,Apple Watch 42mm Aluminum Case Series 2 Space Gray and Black Belt Sport,
 APP1736,42mm Apple Watch Series 2 Aluminum Case and Space Gray Nylon Braided Strap Black,42mm Apple Watch Series 2 Aluminum Case and Space Gray Nylon Braided Strap Black,469.0,
 APP1723,Apple Watch 42mm Aluminum Case Series 2 Gold and Sport Strap Color Cacao,Apple Watch 42mm Aluminum Case Series 2 Gold and Sport Strap Color Cacao,469.0,
 APP1724,Apple Watch 42mm Aluminum Case Series 2 Gold and Braided Nylon Strap Color Coffee / Candy,Apple Watch 42mm Aluminum Case Series 2 Gold and Braided Nylon Strap Color Coffee / Candy,469.0,
-APP1709,Apple Watch Series 2 38mm Stainless Steel Case and Strap White Sport,Apple Watch Series 2 38mm Stainless Steel Case and Strap White Sport,,669.00
+APP1709,Apple Watch Series 2 38mm Stainless Steel Case and Strap White Sport,Apple Watch Series 2 38mm Stainless Steel Case and Strap White Sport,,669.0
 APP1710,Apple Watch Series 2 38mm Stainless Steel Case and Bracelet Links,Apple Watch Series 2 38mm Stainless Steel Case and Bracelet Links,1119.0,
 APP1711,Apple Watch Series 2 38mm Stainless Steel Case and Bracelet Milanese Loop,Apple Watch Series 2 38mm Stainless Steel Case and Bracelet Milanese Loop,769.0,
 APP1712,Apple Watch Series 2 38mm Stainless Steel Case and Strap brown candy with classic clasp,Apple Watch Series 2 38mm Stainless Steel Case and Strap brown candy with classic clasp,769.0,
@@ -5692,7 +5692,7 @@ APP1731,Apple Watch Series 2 42mm Stainless Steel Case and Leather Strap Loop Mi
 APP1788,Apple Correa Rosa 38mm Sport Arena,Apple Correa Rosa 38mm Sport Arena,59.0,
 APP1732,Apple Watch Series 2 42mm Case Stainless Steel Bracelet Black Space and Eslabones same tone,Apple Watch Series 2 42mm Case Stainless Steel Bracelet Black Space and Eslabones same tone,1269.0,
 APP1789,Apple Correa 38mm Sport Cacao,Apple Correa 38mm Sport Cacao,59.0,
-APP1733,Apple Watch Series 2 42mm Case Stainless Steel Bracelet Black Space and Loop Milanese same tone,Apple Watch Series 2 42mm Case Stainless Steel Bracelet Black Space and Loop Milanese same tone,,869.00
+APP1733,Apple Watch Series 2 42mm Case Stainless Steel Bracelet Black Space and Loop Milanese same tone,Apple Watch Series 2 42mm Case Stainless Steel Bracelet Black Space and Loop Milanese same tone,,869.0
 APP1790,Apple Correa 38mm Sports Blue Ocean,Apple Correa 38mm Sports Blue Ocean,59.0,
 APP1739,Apple Watch Series 2 42mm Stainless Steel Case and Black Strap Sport,Apple Watch Series 2 42mm Stainless Steel Case and Black Strap Sport,719.0,
 WAC0178-A,(Open) Wacom Bamboo Stylus Black Alpha 2,(Open) Wacom Bamboo Stylus Black Alpha 2,14.9,
@@ -6077,7 +6077,7 @@ MOP0096,Hold Force Base Case Mophie iPhone Case 7 Black,Hold Force Base Case Mop
 MOP0097,Hold Force Base Case Mophie iPhone Case 7 Gradient,Hold Force Base Case Mophie iPhone Case 7 Gradient,39.95,
 MOP0098,Hold Force Base Case Mophie iPhone Case 7 Black / Transparent,Hold Force Base Case Mophie iPhone Case 7 Black / Transparent,39.95,
 MOP0099,Hold Force Base Case Mophie iPhone Case 7 Wrap,Hold Force Base Case Mophie iPhone Case 7 Wrap,39.95,
-QNA0183,QNAP TVS-871U-RP NAS server i3 4GB RAM,QNAP TVS-871U-RP NAS server i3 4GB RAM,,2.175.99
+QNA0183,QNAP TVS-871U-RP NAS server i3 4GB RAM,QNAP TVS-871U-RP NAS server i3 4GB RAM,,2175.99
 WDT0350,"Western Digital 1TB 35 ""SATA 3 Gb / s Re","Western Digital 1TB 35 ""SATA 3 Gb / s Re",159.99,
 SAT0007,Satechi USB Hub Slim-C to USB-A / HDMI 4K / USB-C Plata,Satechi USB Hub Slim-C to USB-A / HDMI 4K / USB-C Plata,79.99,
 PAC1560,"Macally External Hard Drive 500GB 25 ""USB 3.0","Macally External Hard Drive 500GB 25 ""USB 3.0",79.9,
@@ -6257,9 +6257,9 @@ PAC1763,QNAP TS-431P NAS,QNAP TS-431P NAS,861.95,
 PAC1764,QNAP TS-431P NAS,QNAP TS-431P NAS,1021.95,
 PAC1765,QNAP TS-431P NAS,QNAP TS-431P NAS,1421.95,
 PAC1766,QNAP TS-431P NAS,QNAP TS-431P NAS,1741.95,
-QNA0184,QNAP TS-EC2480U Xeon E3-1246 R2 Server Nas | 4GB RAM,QNAP TS-EC2480U Xeon E3-1246 R2 Server Nas | 4GB RAM,,5.079.99
-QNA0185,QNAP TS-EC1280U Xeon E3-1246 R2 Server Nas | 4GB RAM,QNAP TS-EC1280U Xeon E3-1246 R2 Server Nas | 4GB RAM,,3.627.99
-QNA0186,QNAP TS-EC880U Xeon E3-1246 R2 Server Nas | 4GB RAM,QNAP TS-EC880U Xeon E3-1246 R2 Server Nas | 4GB RAM,,2.780.99
+QNA0184,QNAP TS-EC2480U Xeon E3-1246 R2 Server Nas | 4GB RAM,QNAP TS-EC2480U Xeon E3-1246 R2 Server Nas | 4GB RAM,,5079.99
+QNA0185,QNAP TS-EC1280U Xeon E3-1246 R2 Server Nas | 4GB RAM,QNAP TS-EC1280U Xeon E3-1246 R2 Server Nas | 4GB RAM,,3627.99
+QNA0186,QNAP TS-EC880U Xeon E3-1246 R2 Server Nas | 4GB RAM,QNAP TS-EC880U Xeon E3-1246 R2 Server Nas | 4GB RAM,,2780.99
 SAT0013-A,"(Open) Satechi External Case 25 ""Aluminum HDD and SSD USB-C Gray Space","(Open) Satechi External Case 25 ""Aluminum HDD and SSD USB-C Gray Space",44.99,
 OWC0104-A,"(Open) OWC In-line Digital Thermal Sensor Kit HDD iMac current 2012-27 ""","(Open) OWC In-line Digital Thermal Sensor Kit HDD iMac current 2012-27 """,60.99,
 OTT0153-A,Open - Otterbox Clearly Protected Case iPhone 7 Clear gel,Open - Otterbox Clearly Protected Case iPhone 7 Clear gel,19.99,
@@ -6491,7 +6491,7 @@ PAC1889,Kit Crucial MX300 525GB SSD expansion for Mac mini 2011 to 2012,Kit Cruc
 PAC1890,Crucial MX300 1TB SSD expansion kit for Mac mini 2011 to 2012,Crucial MX300 1TB SSD expansion kit for Mac mini 2011 to 2012,348.33,
 PAC1891,Crucial MX300 expansion kit 2TB SSD for Mac mini 2011 to 2012,Crucial MX300 expansion kit 2TB SSD for Mac mini 2011 to 2012,635.54,
 PAC1909,expansion kit 525GB SSD Crucial MX300 for Mac mini 2014,expansion kit 525GB SSD Crucial MX300 for Mac mini 2014,219.64,
-PUR0136-A,Open - Puro UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,Open - Puro UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,,8.90
+PUR0136-A,Open - Puro UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,Open - Puro UltraSlim Case 03 + Protector iPhone 5 / 5s / SE Transparent,,8.9
 GRT0434-A,Open - Griffin Survivor iPhone Case Wallet Clear 7 Black / Transparent,Open - Griffin Survivor iPhone Case Wallet Clear 7 Black / Transparent,29.99,
 IFX0017-A,Open - Battery Kit complete change iFixit iPhone 4 Battery,Open - Battery Kit complete change iFixit iPhone 4 Battery,19.95,
 WAC0136-A,Open - Wacom Intuos Pen Replacement,Open - Wacom Intuos Pen Replacement,,27.51
@@ -6743,7 +6743,7 @@ TPL0034-A,Open - TP-Link Extender coverage RE200 - AC750 Wi-Fi repeater,Open - T
 MUJ0032,Mujjo Single-Layered gloves color touch screen Black size S,Mujjo Single-Layered gloves color touch screen Black size S,29.95,
 OWC0174-A,Open - Mac OWC Memory 16GB DIMM DDR3 1066Mhz,Open - Mac OWC Memory 16GB DIMM DDR3 1066Mhz,125.99,
 MUJ0026,"Mujjo MacBook Pro sleeve Sleeve 13 ""/ Air 13"" Black / Brown","Mujjo MacBook Pro sleeve Sleeve 13 ""/ Air 13"" Black / Brown",69.9,
-SYN0166,Synology RX1217sas expansion module bays SAS 12 SATA 3,Synology RX1217sas expansion module bays SAS 12 SATA 3,,2.619.00
+SYN0166,Synology RX1217sas expansion module bays SAS 12 SATA 3,Synology RX1217sas expansion module bays SAS 12 SATA 3,,2619.0
 MUJ0027,"Mujjo MacBook Pro sleeve Sleeve 13 ""/ Air 13"" Black","Mujjo MacBook Pro sleeve Sleeve 13 ""/ Air 13"" Black",69.9,
 MUJ0030,"Mujjo MacBook Pro Sleeve Case 15 ""Black","Mujjo MacBook Pro Sleeve Case 15 ""Black",74.9,
 MUJ0029,"Mujjo MacBook Pro Sleeve Case 15 ""Black / Brown","Mujjo MacBook Pro Sleeve Case 15 ""Black / Brown",74.9,
@@ -6977,7 +6977,7 @@ REP0375,Wi-Fi Antenna Repair iPad Mini 2,Wi-Fi Antenna Repair iPad Mini 2,79.99,
 REP0387,Wi-Fi Antenna Repair iPad Mini 3,Wi-Fi Antenna Repair iPad Mini 3,79.99,
 REP0361,Repair Touch Screen iPad mini,Repair Touch Screen iPad mini,109.99,
 REP0359,Repair Touch Screen iPad Air 2,Repair Touch Screen iPad Air 2,299.99,
-REP0339,Repair Touch Screen iPad 4,Repair Touch Screen iPad 4,,99.90
+REP0339,Repair Touch Screen iPad 4,Repair Touch Screen iPad 4,,99.9
 REP0368,Touch Screen Repair iPad Mini 2,Touch Screen Repair iPad Mini 2,109.99,
 REP0378,Touch Screen Repair iPad Mini 3,Touch Screen Repair iPad Mini 3,,
 REP0209,iPad 2 Touch Screen Repair,iPad 2 Touch Screen Repair,99.99,
@@ -7034,7 +7034,7 @@ CRU0036-A,Open - Memory Crucial Mac 2GB 667MHZ DDR2 SO-DIMM,Open - Memory Crucia
 SHE0032-A,Open - SwitchEasy CoverBuddy iPad Case Pro Black TraslÌ¼cido,Open - SwitchEasy CoverBuddy iPad Case Pro Black TraslÌ¼cido,39.99,
 ADN0040-A,Open - Adonith Snap Pointer Black Bluetooth,Open - Adonith Snap Pointer Black Bluetooth,34.99,
 IOT0015-A,Open - iOttie Active Edge Support iPhone Electric Bicycle Lima,Open - iOttie Active Edge Support iPhone Electric Bicycle Lima,39.99,
-IFX0048-A,"Open - Hard Drive Bracket cable without iFixit MacBook Pro 13 ""(Model A1278 Mid 2009 / Mid 2010)","Open - Hard Drive Bracket cable without iFixit MacBook Pro 13 ""(Model A1278 Mid 2009 / Mid 2010)",,34.20
+IFX0048-A,"Open - Hard Drive Bracket cable without iFixit MacBook Pro 13 ""(Model A1278 Mid 2009 / Mid 2010)","Open - Hard Drive Bracket cable without iFixit MacBook Pro 13 ""(Model A1278 Mid 2009 / Mid 2010)",,34.2
 SEA0097-A,"Open - Seagate Barracuda 1TB Hard Drive 25 ""7mm","Open - Seagate Barracuda 1TB Hard Drive 25 ""7mm",69.99,
 OWC0009-A,"Open - expansion Kit SSD OWC Aura Pro 6G 120GB MacBook Air 11 ""and 13"" 2010 to 2011","Open - expansion Kit SSD OWC Aura Pro 6G 120GB MacBook Air 11 ""and 13"" 2010 to 2011",144.99,
 LAC0192-A,Open - LaCie Porsche Design Mobile Drive 2TB USB 3.0 Hard Drive,Open - LaCie Porsche Design Mobile Drive 2TB USB 3.0 Hard Drive,109.99,
@@ -7210,7 +7210,7 @@ WAC0235,Wacom Intuos 4 Case Transport size S,Wacom Intuos 4 Case Transport size 
 WAC0240,Education - Wacom Bamboo A5 Slate Gray,Education - Wacom Bamboo A5 Slate Gray,129.99,
 WAC0241,Education - Wacom Bamboo Folio A4 Black,Education - Wacom Bamboo Folio A4 Black,199.99,
 WAC0242,Education - A4 Wacom Bamboo Slate Gray,Education - A4 Wacom Bamboo Slate Gray,149.99,
-PAC1927,"Second hand - Apple iMac 20 ""Core 2 Duo 226GHz | 2GB RAM | 160GB HDD","Second hand - Apple iMac 20 ""Core 2 Duo 226GHz | 2GB RAM | 160GB HDD",,285.60
+PAC1927,"Second hand - Apple iMac 20 ""Core 2 Duo 226GHz | 2GB RAM | 160GB HDD","Second hand - Apple iMac 20 ""Core 2 Duo 226GHz | 2GB RAM | 160GB HDD",,285.6
 PAC1930,"Second hand - Apple iMac 215 ""Core i5 Quad-Core 27GHz | 8GB RAM | 1TB HDD | Mid 2011 (MC812LL / A)","Second hand - Apple iMac 215 ""Core i5 Quad-Core 27GHz | 8GB RAM | 1TB HDD | Mid 2011 (MC812LL / A)",1199.0,
 PAC1928,"Second hand - Apple iMac 215 ""Core i7 Quad-Core 28GHz | 8GB RAM | 1TB HDD","Second hand - Apple iMac 215 ""Core i7 Quad-Core 28GHz | 8GB RAM | 1TB HDD",1199.0,
 PAC1932,"Second hand - Apple LED Cinema Display 27 ""Mid 2010 (MC007LL / A)","Second hand - Apple LED Cinema Display 27 ""Mid 2010 (MC007LL / A)",999.0,
@@ -7446,35 +7446,35 @@ PAC1998,Synology DS1517 + | 2GB RAM | 20TB (5x4TB) WD Red,Synology DS1517 + | 2G
 PAC1999,Synology DS1517 + | 2GB RAM | 30TB (5x6TB) WD Red,Synology DS1517 + | 2GB RAM | 30TB (5x6TB) WD Red,2080.86,
 PAC2000,Synology DS1517 + | 2GB RAM | 40TB (5x8TB) WD Red,Synology DS1517 + | 2GB RAM | 40TB (5x8TB) WD Red,2600.86,
 PAC2001,Synology DS1517 + | 8GB RAM | NAS server Mac and PC,Synology DS1517 + | 8GB RAM | NAS server Mac and PC,,899.99
-PAC2002,Synology DS1517 + | 8GB RAM | 10TB (5x2TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 10TB (5x2TB) Seagate Iron Wolf,,1.319.96
-PAC2003,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) Seagate Iron Wolf,,1.434.96
-PAC2004,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) Seagate Iron Wolf,,1.510.96
-PAC2005,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) Seagate Iron Wolf,,1.918.96
-PAC2006,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) Seagate Iron Wolf,,2.075.24
-PAC2007,Synology DS1517 + | 8GB RAM | 50TB (5x10TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 50TB (5x10TB) Seagate Iron Wolf,,2.490.95
+PAC2002,Synology DS1517 + | 8GB RAM | 10TB (5x2TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 10TB (5x2TB) Seagate Iron Wolf,,1319.96
+PAC2003,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) Seagate Iron Wolf,,1434.96
+PAC2004,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) Seagate Iron Wolf,,1510.96
+PAC2005,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) Seagate Iron Wolf,,1918.96
+PAC2006,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) Seagate Iron Wolf,,2075.24
+PAC2007,Synology DS1517 + | 8GB RAM | 50TB (5x10TB) Seagate Iron Wolf,Synology DS1517 + | 8GB RAM | 50TB (5x10TB) Seagate Iron Wolf,,2490.95
 PAC2008,Synology DS1517 + | 8GB RAM | 10TB (5x2TB) WD Red,Synology DS1517 + | 8GB RAM | 10TB (5x2TB) WD Red,1407.84,
-PAC2009,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) WD Red,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) WD Red,,1.420.96
-PAC2010,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) WD Red,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) WD Red,,1.620.96
-PAC2011,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) WD Red,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) WD Red,,2.029.49
-PAC2012,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) WD Red,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) WD Red,,2.191.96
+PAC2009,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) WD Red,Synology DS1517 + | 8GB RAM | 15TB (5x3TB) WD Red,,1420.96
+PAC2010,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) WD Red,Synology DS1517 + | 8GB RAM | 20TB (5x4TB) WD Red,,1620.96
+PAC2011,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) WD Red,Synology DS1517 + | 8GB RAM | 30TB (5x6TB) WD Red,,2029.49
+PAC2012,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) WD Red,Synology DS1517 + | 8GB RAM | 40TB (5x8TB) WD Red,,2191.96
 PAC2013,Synology DS1517 + | 16GB RAM,Synology DS1517 + | 16GB RAM,,989.99
-PAC2014,Synology DS1517 + | 16GB RAM | 10TB (5x2TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 10TB (5x2TB) Seagate Iron Wolf,,1.632.75
-PAC2015,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) Seagate Iron Wolf,,1.419.85
-PAC2016,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) Seagate Iron Wolf,,1.647.75
-PAC2017,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) Seagate Iron Wolf,,2.006.75
-PAC2018,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) Seagate Iron Wolf,,2.174.75
-PAC2019,Synology DS1517 + | 16GB RAM | 50TB (5x10TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 50TB (5x10TB) Seagate Iron Wolf,,2.763.75
+PAC2014,Synology DS1517 + | 16GB RAM | 10TB (5x2TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 10TB (5x2TB) Seagate Iron Wolf,,1632.75
+PAC2015,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) Seagate Iron Wolf,,1419.85
+PAC2016,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) Seagate Iron Wolf,,1647.75
+PAC2017,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) Seagate Iron Wolf,,2006.75
+PAC2018,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) Seagate Iron Wolf,,2174.75
+PAC2019,Synology DS1517 + | 16GB RAM | 50TB (5x10TB) Seagate Iron Wolf,Synology DS1517 + | 16GB RAM | 50TB (5x10TB) Seagate Iron Wolf,,2763.75
 PAC2020,Synology DS1517 + | 16GB RAM | 10TB (5x2TB) WD Red,Synology DS1517 + | 16GB RAM | 10TB (5x2TB) WD Red,1475.84,
-PAC2021,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) WD Red,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) WD Red,,1.457.98
-PAC2022,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) WD Red,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) WD Red,,2.053.99
-PAC2023,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) WD Red,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) WD Red,,1.944.75
-PAC2024,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) WD Red,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) WD Red,,2.239.18
+PAC2021,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) WD Red,Synology DS1517 + | 16GB RAM | 15TB (5x3TB) WD Red,,1457.98
+PAC2022,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) WD Red,Synology DS1517 + | 16GB RAM | 20TB (5x4TB) WD Red,,2053.99
+PAC2023,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) WD Red,Synology DS1517 + | 16GB RAM | 30TB (5x6TB) WD Red,,1944.75
+PAC2024,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) WD Red,Synology DS1517 + | 16GB RAM | 40TB (5x8TB) WD Red,,2239.18
 PAC2311,Synology DS1517 + NAS Server | 2GB RAM | 60TB (5x12TB) Seagate Iron Wolf,Synology DS1517 + NAS Server | 2GB RAM | 60TB (5x12TB) Seagate Iron Wolf,3305.81,
-PAC2313,Synology DS1517 + NAS Server | 8GB RAM | 60TB (5x12TB) Seagate Iron Wolf,Synology DS1517 + NAS Server | 8GB RAM | 60TB (5x12TB) Seagate Iron Wolf,,3.055.91
-PAC2315,Synology DS1517 + NAS Server | 16GB RAM | 60TB (5x12TB) Seagate Iron Wolf,Synology DS1517 + NAS Server | 16GB RAM | 60TB (5x12TB) Seagate Iron Wolf,,3.133.91
+PAC2313,Synology DS1517 + NAS Server | 8GB RAM | 60TB (5x12TB) Seagate Iron Wolf,Synology DS1517 + NAS Server | 8GB RAM | 60TB (5x12TB) Seagate Iron Wolf,,3055.91
+PAC2315,Synology DS1517 + NAS Server | 16GB RAM | 60TB (5x12TB) Seagate Iron Wolf,Synology DS1517 + NAS Server | 16GB RAM | 60TB (5x12TB) Seagate Iron Wolf,,3133.91
 PAC2312,Synology DS1517 + NAS Server | 2GB RAM | 50TB (5x10TB) WD Red,Synology DS1517 + NAS Server | 2GB RAM | 50TB (5x10TB) WD Red,3000.86,
-PAC2314,Synology DS1517 + NAS Server | 8GB RAM | 50TB (5x10TB) WD Red,Synology DS1517 + NAS Server | 8GB RAM | 50TB (5x10TB) WD Red,,2.620.91
-PAC2316,Synology DS1517 + NAS Server | 16GB RAM | 50TB (5x10TB) WD Red,Synology DS1517 + NAS Server | 16GB RAM | 50TB (5x10TB) WD Red,,2.698.91
+PAC2314,Synology DS1517 + NAS Server | 8GB RAM | 50TB (5x10TB) WD Red,Synology DS1517 + NAS Server | 8GB RAM | 50TB (5x10TB) WD Red,,2620.91
+PAC2316,Synology DS1517 + NAS Server | 16GB RAM | 50TB (5x10TB) WD Red,Synology DS1517 + NAS Server | 16GB RAM | 50TB (5x10TB) WD Red,,2698.91
 PAC2050,Second hand - Apple Mac mini Core 2 Duo | 4GB RAM | 320GB HDD,Second hand - Apple Mac mini Core 2 Duo | 4GB RAM | 320GB HDD,699.0,
 PAC2051,Second hand - iPhone 5S 16GB Silver,Second hand - iPhone 5S 16GB Silver,409.0,
 PAC2052,Second hand - iPhone 5s 16GB Gold,Second hand - iPhone 5s 16GB Gold,409.0,
@@ -7489,7 +7489,7 @@ PAC2060,"Second hand - Apple iMac 20 ""Core 2 Duo 226GHz | 4GB RAM | 500GB HDD",
 BEL0265-A,Open - Air Protect SheerForce Case Belkin iPhone 8/7 / 6s / 6 Space Gray,Open - Air Protect SheerForce Case Belkin iPhone 8/7 / 6s / 6 Space Gray,19.99,
 GRT0442-A,Open - Griffin Survivor iPhone Case Journey 7 plus / 6s Plus / 6 Plus Black / Blue,Open - Griffin Survivor iPhone Case Journey 7 plus / 6s Plus / 6 Plus Black / Blue,29.99,
 TUC0304-A,"Open - Tucano Nido Hard-Shell Case MacBook Pro 13 ""(late 2016) Blue","Open - Tucano Nido Hard-Shell Case MacBook Pro 13 ""(late 2016) Blue",29.9,
-TRA0028-A,Open - Transcend External DVD Recorder White,Open - Transcend External DVD Recorder White,,23.80
+TRA0028-A,Open - Transcend External DVD Recorder White,Open - Transcend External DVD Recorder White,,23.8
 SPE0185-A,"Open - Speck Case SmartShell MacBook Pro 15 ""Touch Bar Transparent","Open - Speck Case SmartShell MacBook Pro 15 ""Touch Bar Transparent",49.99,
 APP1040-A,Like new - Apple USB Power Adapter-C 29 W,Like new - Apple USB Power Adapter-C 29 W,59.0,
 TPL0011-A,Open - TP-Link RE450 coverage Extender - repeater Wi-Fi AC1750,Open - TP-Link RE450 coverage Extender - repeater Wi-Fi AC1750,79.9,
@@ -7523,36 +7523,36 @@ PAC1962,Synology DS1817 + | 2GB RAM | 24TB (8x3TB) WD Red,Synology DS1817 + | 2G
 PAC1963,Synology DS1817 + | 2GB RAM | 32TB (8x4TB) WD Red,Synology DS1817 + | 2GB RAM | 32TB (8x4TB) WD Red,2330.89,
 PAC1964,Synology DS1817 + | 2GB RAM | 48TB (8x6TB) WD Red,Synology DS1817 + | 2GB RAM | 48TB (8x6TB) WD Red,3018.89,
 PAC1965,Synology DS1817 + | 2GB RAM | 64TB (8x8TB) WD Red,Synology DS1817 + | 2GB RAM | 64TB (8x8TB) WD Red,3850.89,
-PAC1966,Synology DS1817 + | 8GB RAM,Synology DS1817 + | 8GB RAM,,1.099.99
-PAC1967,Synology DS1817 + | 8GB RAM | 16TB (8x2TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 16TB (8x2TB) Seagate Iron Wolf,,1.737.75
-PAC1968,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) Seagate Iron Wolf,,1.921.75
-PAC1969,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) Seagate Iron Wolf,,52.76
-PAC1970,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) Seagate Iron Wolf,,2.512.60
-PAC1971,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) Seagate Iron Wolf,,3.193.75
-PAC1972,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) Seagate Iron Wolf,,3.637.90
+PAC1966,Synology DS1817 + | 8GB RAM,Synology DS1817 + | 8GB RAM,,1099.99
+PAC1967,Synology DS1817 + | 8GB RAM | 16TB (8x2TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 16TB (8x2TB) Seagate Iron Wolf,,1737.75
+PAC1968,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) Seagate Iron Wolf,,1921.75
+PAC1969,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) Seagate Iron Wolf,,2121.75
+PAC1970,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) Seagate Iron Wolf,,2512.6
+PAC1971,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) Seagate Iron Wolf,,3193.75
+PAC1972,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) Seagate Iron Wolf,,3637.9
 PAC1973,Synology DS1817 + | 8GB RAM | 16TB (8x2TB) WD Red,Synology DS1817 + | 8GB RAM | 16TB (8x2TB) WD Red,1877.87,
-PAC1974,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) WD Red,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) WD Red,,1.851.37
-PAC1975,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) WD Red,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) WD Red,,2.068.99
-PAC1976,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) WD Red,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) WD Red,,2.700.75
-PAC1977,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) WD Red,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) WD Red,,3.102.22
-PAC1978,Synology DS1817 + | 16GB RAM,Synology DS1817 + | 16GB RAM,,912.39
-PAC1979,Synology DS1817 + | 16GB RAM | 16TB (8x2TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 16TB (8x2TB) Seagate Iron Wolf,,1.805.75
-PAC1980,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) Seagate Iron Wolf,,1.989.75
-PAC1981,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) Seagate Iron Wolf,,2.203.99
-PAC1982,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) Seagate Iron Wolf,,2.712.75
-PAC1983,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) Seagate Iron Wolf,,3.037.12
-PAC1984,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) Seagate Iron Wolf,,3.975.75
+PAC1974,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) WD Red,Synology DS1817 + | 8GB RAM | 24TB (8x3TB) WD Red,,1851.37
+PAC1975,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) WD Red,Synology DS1817 + | 8GB RAM | 32TB (8x4TB) WD Red,,2068.99
+PAC1976,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) WD Red,Synology DS1817 + | 8GB RAM | 48TB (8x6TB) WD Red,,2700.75
+PAC1977,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) WD Red,Synology DS1817 + | 8GB RAM | 64TB (8x8TB) WD Red,,3102.22
+PAC1978,Synology DS1817 + | 16GB RAM,Synology DS1817 + | 16GB RAM,,1125.03
+PAC1979,Synology DS1817 + | 16GB RAM | 16TB (8x2TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 16TB (8x2TB) Seagate Iron Wolf,,1805.75
+PAC1980,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) Seagate Iron Wolf,,1989.75
+PAC1981,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) Seagate Iron Wolf,,2203.99
+PAC1982,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) Seagate Iron Wolf,,2712.75
+PAC1983,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) Seagate Iron Wolf,,3037.12
+PAC1984,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) Seagate Iron Wolf,,3975.75
 PAC1985,Synology DS1817 + | 16GB RAM | 16TB (8x2TB) WD Red,Synology DS1817 + | 16GB RAM | 16TB (8x2TB) WD Red,1945.87,
-PAC1986,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) WD Red,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) WD Red,,2.055.75
-PAC1987,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) WD Red,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) WD Red,,2.329.75
-PAC1988,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) WD Red,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) WD Red,,2.657.68
-PAC1989,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) WD Red,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) WD Red,,3.446.99
+PAC1986,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) WD Red,Synology DS1817 + | 16GB RAM | 24TB (8x3TB) WD Red,,2055.75
+PAC1987,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) WD Red,Synology DS1817 + | 16GB RAM | 32TB (8x4TB) WD Red,,2329.75
+PAC1988,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) WD Red,Synology DS1817 + | 16GB RAM | 48TB (8x6TB) WD Red,,2657.68
+PAC1989,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) WD Red,Synology DS1817 + | 16GB RAM | 64TB (8x8TB) WD Red,,3446.99
 PAC2305,Synology DS1817 + | 2GB RAM | 96TB (8x12TB) Seagate Iron Wolf,Synology DS1817 + | 2GB RAM | 96TB (8x12TB) Seagate Iron Wolf,4978.81,
-PAC2307,Synology DS1817 + | 8GB RAM | 96TB (8x12TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 96TB (8x12TB) Seagate Iron Wolf,,4.524.75
-PAC2309,Synology DS1817 + | 16GB RAM | 96TB (8x12TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 96TB (8x12TB) Seagate Iron Wolf,,4.612.75
+PAC2307,Synology DS1817 + | 8GB RAM | 96TB (8x12TB) Seagate Iron Wolf,Synology DS1817 + | 8GB RAM | 96TB (8x12TB) Seagate Iron Wolf,,4524.75
+PAC2309,Synology DS1817 + | 16GB RAM | 96TB (8x12TB) Seagate Iron Wolf,Synology DS1817 + | 16GB RAM | 96TB (8x12TB) Seagate Iron Wolf,,4612.75
 PAC2306,Synology DS1817 + | 2GB RAM | 80TB (8x10TB) WD Red,Synology DS1817 + | 2GB RAM | 80TB (8x10TB) WD Red,4490.89,
-PAC2308,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) WD Red,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) WD Red,,3.984.75
-PAC2310,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) WD Red,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) WD Red,,4.073.75
+PAC2308,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) WD Red,Synology DS1817 + | 8GB RAM | 80TB (8x10TB) WD Red,,3984.75
+PAC2310,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) WD Red,Synology DS1817 + | 16GB RAM | 80TB (8x10TB) WD Red,,4073.75
 PAC2066,"Second hand - Apple iMac 20 ""Core 2 Duo 226GHz | 4GB RAM | 500GB HDD","Second hand - Apple iMac 20 ""Core 2 Duo 226GHz | 4GB RAM | 500GB HDD",1199.0,
 AP20016,"Second hand - Apple iMac 215 ""Core i5 Quad-Core 25GHz | 8GB RAM | 500GB HDD","Second hand - Apple iMac 215 ""Core i5 Quad-Core 25GHz | 8GB RAM | 500GB HDD",1199.0,
 PAC2068,"Second hand - Apple iMac 21.5 ""Core i3 306GHz | 4GB RAM | 500GB HDD","Second hand - Apple iMac 21.5 ""Core i3 306GHz | 4GB RAM | 500GB HDD",1199.0,
@@ -7675,7 +7675,7 @@ KAN0025-A,Open - iAdapt Kanex Mini DisplayPort to DVI-D,Open - iAdapt Kanex Mini
 NTE0050-A,Open - NewerTech Complete set of 14 tools,Open - NewerTech Complete set of 14 tools,23.99,
 OTT0095-A,Open - Clear Case OtterBox Symmetry iPhone 6 / 6S Transparent / Gray,Open - Clear Case OtterBox Symmetry iPhone 6 / 6S Transparent / Gray,29.99,
 WDT0211-A,"Open - Purple 2TB WD 35 ""PC Security Mac hard drive and NAS","Open - Purple 2TB WD 35 ""PC Security Mac hard drive and NAS",107.0,
-WIT0011-A,Open - Withings Blood Pressure Monitor Wireless iPhone iPad and iPod touch,Open - Withings Blood Pressure Monitor Wireless iPhone iPad and iPod touch,,92.20
+WIT0011-A,Open - Withings Blood Pressure Monitor Wireless iPhone iPad and iPod touch,Open - Withings Blood Pressure Monitor Wireless iPhone iPad and iPod touch,,92.2
 APP1622-A,"Open - Apple Smart Keyboard Pro Keyboard Folio iPad 9.7 ""","Open - Apple Smart Keyboard Pro Keyboard Folio iPad 9.7 """,,156.82
 AKI0025,Akitio TT3 adapter Thunderbolt 2 Thunderbolt 3,Akitio TT3 adapter Thunderbolt 2 Thunderbolt 3,39.0,
 AKI0026,Akitio Thunder2 Dock USB3.0 FireWire eSATA Hub Thunderbolt 2,Akitio Thunder2 Dock USB3.0 FireWire eSATA Hub Thunderbolt 2,226.0,
@@ -7825,7 +7825,7 @@ APP2263,"Apple Macbook Pro 13 ""Core i5 Touch Bar 33GHz | 8GB | 512GB SSD Space 
 APP2264,"Apple Macbook Pro 13 ""Core i7 Touch Bar 35GHz | 16GB | 512GB SSD Space Gray","Apple Macbook Pro 13 ""Core i7 Touch Bar 35GHz | 16GB | 512GB SSD Space Gray",2849.0,
 APP2265,"Apple MacBook Pro 13 ""Core i7 Touch Bar 35GHz | 8GB | 512GB SSD Space Gray","Apple MacBook Pro 13 ""Core i7 Touch Bar 35GHz | 8GB | 512GB SSD Space Gray",2609.0,
 APP2266,"Apple MacBook Pro 13 ""Core i5 3.1GHz Touch Bar | 16GB | 512GB SSD Space Gray","Apple MacBook Pro 13 ""Core i5 3.1GHz Touch Bar | 16GB | 512GB SSD Space Gray",2489.0,
-APP2267,"Apple MacBook Pro 13 ""Core i5 Touch Bar 31GHz | 8GB | 512GB SSD Space Gray","Apple MacBook Pro 13 ""Core i5 Touch Bar 31GHz | 8GB | 512GB SSD Space Gray",,2.249.00
+APP2267,"Apple MacBook Pro 13 ""Core i5 Touch Bar 31GHz | 8GB | 512GB SSD Space Gray","Apple MacBook Pro 13 ""Core i5 Touch Bar 31GHz | 8GB | 512GB SSD Space Gray",,2249.0
 APP2268,"Apple MacBook Pro 13 ""Core i5 Touch Bar 33GHz | 16GB | 1TB SSD Space Gray","Apple MacBook Pro 13 ""Core i5 Touch Bar 33GHz | 16GB | 1TB SSD Space Gray",3109.0,
 APP2269,"Apple MacBook Pro 13 ""Core i5 Touch Bar 33GHz | 8GB | 1TB SSD Space Gray","Apple MacBook Pro 13 ""Core i5 Touch Bar 33GHz | 8GB | 1TB SSD Space Gray",2869.0,
 APP2270,"Apple MacBook Pro 13 ""Core i7 Touch Bar 35GHz | 16GB | 1TB SSD Space Gray","Apple MacBook Pro 13 ""Core i7 Touch Bar 35GHz | 16GB | 1TB SSD Space Gray",3349.0,
@@ -8620,7 +8620,7 @@ APP1964-A,Open - Apple iPhone 32GB Space Gray,Open - Apple iPhone 32GB Space Gra
 LGE0048-A,"Open - LG 27UD58P-B 27 ""4K UHD HDMI DisplayPort","Open - LG 27UD58P-B 27 ""4K UHD HDMI DisplayPort",449.0,
 GTE0072-A,Open - G-Technology 8TB G-RAID Thunderbolt 2 USB 3.0 Extraóble Plata,Open - G-Technology 8TB G-RAID Thunderbolt 2 USB 3.0 Extraóble Plata,683.99,
 BNQ0053-A,"Open - BenQ PD2710QC Monitor 27 ""QHD Design Professional USB-C","Open - BenQ PD2710QC Monitor 27 ""QHD Design Professional USB-C",679.0,
-APP2133-A,"Like new - Apple iPad Pro 12.9 ""Wi-Fi + Cellular 512GB Silver","Like new - Apple iPad Pro 12.9 ""Wi-Fi + Cellular 512GB Silver",,1.328.38
+APP2133-A,"Like new - Apple iPad Pro 12.9 ""Wi-Fi + Cellular 512GB Silver","Like new - Apple iPad Pro 12.9 ""Wi-Fi + Cellular 512GB Silver",,1328.38
 APP2272-A,"Open - Apple MacBook Pro 13 ""Core i5 Touch Bar 31GHz | 16GB | 256GB SSD Space Gray","Open - Apple MacBook Pro 13 ""Core i5 Touch Bar 31GHz | 16GB | 256GB SSD Space Gray",2239.0,
 JYB0007,X3 Jaybird Wireless Bluetooth Headset Black,X3 Jaybird Wireless Bluetooth Headset Black,129.0,
 JYB0008,Jaybird Freedom Bluetooth Headphones Red,Jaybird Freedom Bluetooth Headphones Red,149.99,
@@ -8740,12 +8740,12 @@ APP2486,Apple iPhone 8 Plus 256GB Space Gray,Apple iPhone 8 Plus 256GB Space Gra
 APP2487,Apple iPhone 8 Plus 256GB Silver,Apple iPhone 8 Plus 256GB Silver,1089.0,
 APP2488,Apple iPhone 8 Plus 256GB Gold,Apple iPhone 8 Plus 256GB Gold,1089.0,
 APP2489,Apple iPhone 64GB Space Gray X,Apple iPhone 64GB Space Gray X,1159.0,
-APP2493,Apple TV 32GB 4K,Apple TV 32GB 4K,,199.00
-APP2494,Apple TV 4K 64GB,Apple TV 4K 64GB,,219.00
-APP2490,Apple iPhone 64GB X Silver,Apple iPhone 64GB X Silver,,957.85
+APP2493,Apple TV 32GB 4K,Apple TV 32GB 4K,,199.0
+APP2494,Apple TV 4K 64GB,Apple TV 4K 64GB,,219.0
+APP2490,Apple iPhone 64GB X Silver,Apple iPhone 64GB X Silver,,1159.0
 APP2495,Apple iPhone 32GB Black Bright 7,Apple iPhone 32GB Black Bright 7,639.0,
-APP2491,Apple iPhone X 256GB Space Gray,Apple iPhone X 256GB Space Gray,,1.329.00
-APP2492,Apple iPhone X 256GB Silver,Apple iPhone X 256GB Silver,,1.329.00
+APP2491,Apple iPhone X 256GB Space Gray,Apple iPhone X 256GB Space Gray,,1329.0
+APP2492,Apple iPhone X 256GB Silver,Apple iPhone X 256GB Silver,,1329.0
 APP2496,Apple iPhone 7 Plus 32GB Black Bright,Apple iPhone 7 Plus 32GB Black Bright,779.0,
 ALL0020,Allocacoc PowerCube extended plug strip White / Green,Allocacoc PowerCube extended plug strip White / Green,14.95,
 ALL0021,Allocacoc PowerCube extended plug strip White / Red,Allocacoc PowerCube extended plug strip White / Red,14.95,
@@ -8905,7 +8905,7 @@ IFX0081-A,iFixit piece connector Lightning and Audio Jack White iPhone 5s,iFixit
 MOS0072-A,Open - Moshi iGlaze iPhone Case SE / 5s / 5 Black,Open - Moshi iGlaze iPhone Case SE / 5s / 5 Black,30.0,
 TUC0252-A,"Tucano Nido Hard-Shell Case MacBook Pro Retina 13 ""Blue","Tucano Nido Hard-Shell Case MacBook Pro Retina 13 ""Blue",29.9,
 APP2525,Apple Leather Case leather case iPhone 8/7 taupe,Apple Leather Case leather case iPhone 8/7 taupe,55.0,
-ELG0031-A,Elgato Eve Wireless Sensor Room Interior,Elgato Eve Wireless Sensor Room Interior,,69.80
+ELG0031-A,Elgato Eve Wireless Sensor Room Interior,Elgato Eve Wireless Sensor Room Interior,,69.8
 APP2526,Apple iPhone leather case Leather Case 8/7 brown Candy,Apple iPhone leather case Leather Case 8/7 brown Candy,55.0,
 KEN0239-A,Open - Kensington USB Dock SD1500-C to USB 3.0 / HDMI / VGA / Ethernet Notebook,Open - Kensington USB Dock SD1500-C to USB 3.0 / HDMI / VGA / Ethernet Notebook,105.99,
 APP2527,Apple iPhone Leather Case Cover Skin 8/7 Blue Night,Apple iPhone Leather Case Cover Skin 8/7 Blue Night,55.0,
@@ -9978,7 +9978,7 @@ APP1779-A,Open - Apple Watch Series 1 38mm Aluminum Case Space Gray and Black Be
 TAD0001-A,Open - Tado Smart Climate Control Intelligent AC,Open - Tado Smart Climate Control Intelligent AC,179.0,
 PHI0046-A,Open - Philips Hue Bloom separate light lamp,Open - Philips Hue Bloom separate light lamp,59.95,
 NIE0002-A,Open - Ninebot by Segway Personal Transportation Robot miniPRO two wheels Black,Open - Ninebot by Segway Personal Transportation Robot miniPRO two wheels Black,699.0,
-TAD0002-A,Open - Tado V2 Intelligent Heating Thermostat,Open - Tado V2 Intelligent Heating Thermostat,,156.00
+TAD0002-A,Open - Tado V2 Intelligent Heating Thermostat,Open - Tado V2 Intelligent Heating Thermostat,,156.0
 APP0997-A,"Open - Apple MacBook Pro Retina 15 ""Core i7 22 GHz | RAM 16GB | 512GB Flash","Open - Apple MacBook Pro Retina 15 ""Core i7 22 GHz | RAM 16GB | 512GB Flash",2489.0,
 WDT0368-A,Open - WD My Book External Hard Drive 8TB 35 USB 3.0,Open - WD My Book External Hard Drive 8TB 35 USB 3.0,279.99,
 FIT0056-A,Open - Smartwatch Fitbit Ionic Gray,Open - Smartwatch Fitbit Ionic Gray,349.95,
@@ -10490,7 +10490,7 @@ BOD0002-A,Open - BodyGuardz TrainR Pro iPhone Case with Armband 8 Plus / 7 Plus 
 OWC0227-A,Open - OWC USB Dock-C 10-port power 80W Plata,Open - OWC USB Dock-C 10-port power 80W Plata,217.99,
 APP2477-A,Open - Apple iPhone 8 Plus 64GB Space Gray,Open - Apple iPhone 8 Plus 64GB Space Gray,919.0,
 APP1973-A,Open - Apple iPad Wi-Fi 128GB Space Gray,Open - Apple iPad Wi-Fi 128GB Space Gray,502.81,
-WAC0248,Wacom support for MobileStudio Pro,Wacom support for MobileStudio Pro,,99.90
+WAC0248,Wacom support for MobileStudio Pro,Wacom support for MobileStudio Pro,,99.9
 NOM0036,Nomad Sport Strap Strap 42mm Apple Watch Sport Black and Gray,Nomad Sport Strap Strap 42mm Apple Watch Sport Black and Gray,45.95,
 APP1472,Apple Magic Keyboard English International,Apple Magic Keyboard English International,119.0,
 EVU0019,AER Evutec Karbon iPhone Case 8/7 / 6s Carbon + Magnetic holder,AER Evutec Karbon iPhone Case 8/7 / 6s Carbon + Magnetic holder,39.99,
@@ -10501,7 +10501,7 @@ ZAG0042,Zagg Glass Screen Protector + iPhone 8/7 / 6 / 6S,Zagg Glass Screen Prot
 BNQ0072,"EL2870U BenQ Monitor 28 ""4K HDR DP HDMI","EL2870U BenQ Monitor 28 ""4K HDR DP HDMI",349.0,
 MOS0248,Moshi USB to HDMI 4K-C Adapter,Moshi USB to HDMI 4K-C Adapter,39.95,
 DJI0026,DJI Mavic Air Drone cuadricóptero Arctic White,DJI Mavic Air Drone cuadricóptero Arctic White,,
-DJI0025,DJI Mavic Air Drone Black Onyx cuadricóptero,DJI Mavic Air Drone Black Onyx cuadricóptero,,849.00
+DJI0025,DJI Mavic Air Drone Black Onyx cuadricóptero,DJI Mavic Air Drone Black Onyx cuadricóptero,,849.0
 LIN0013,Linksys Wi-Fi Velop system AC2200 1 unit,Linksys Wi-Fi Velop system AC2200 1 unit,,
 LIN0014,Linksys Wi-Fi Velop system AC4400 2 units,Linksys Wi-Fi Velop system AC4400 2 units,,
 LIN0015,Linksys Wi-Fi Velop System AC6600 3 units,Linksys Wi-Fi Velop System AC6600 3 units,,
